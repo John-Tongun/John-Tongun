@@ -10,5 +10,5 @@
 - <li>🌾 Projects: Drone Control Systems & AgriTech Solutions</li>
 - <li>⚙️ Stack: JavaScript, Python, HTML and CSS </li>
 - ⚡ Fun fact: Books and advanture.
-- 📫 How to reach me: <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/fc3bbca6-4d40-40f8-8251-22bf531b0642" />
+- 📫 How to reach me Email: <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/fc3bbca6-4d40-40f8-8251-22bf531b0642" />
  Jtongun14@gmail.com or <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/c1d65c97-38b8-4c51-a367-c4f8b6f8193b" /> +211924492888
