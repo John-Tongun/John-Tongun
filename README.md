@@ -2,7 +2,7 @@
 
 <li>🌎 Country: South sudan Juba City</li>
 
-<li>💻 Role: Software Engineer | Full-Stack Developer</li>
+<li>💻 Role: Full-Stack Developer and Cyber Security Expert</li>
 
 - 🌱 I’m currently learning software development at Primetek Academy and also Networking and cybersecurity at ISBAT University Kampala Uganda
 - 👯 I’m looking to collaborate on software development and cybersecurity
