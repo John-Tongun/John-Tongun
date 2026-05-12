@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning software development at Primetek Academy and also Networking and cybersecurity at ISBAT University Kampala Uganda
 - 👯 I’m looking to collaborate on software development and cybersecurity
-- <li>🌾 15 years of work in telecom industy and 2 years in Software Development , I'm currently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist and Ambassador and Mentor at PrimeTek Africa
+- <li>🌾 15 years of work in telecom industy and 2 years in Software Development , I'm currently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist and Ambassador and Mentor at 
 - <li>🌾 Projects: Drone Control Systems & AgriTech Solutions</li>
 - <li>⚙️ Stack: JavaScript, Python, HTML and CSS </li>
 - ⚡ Fun fact: Books and advanture...
