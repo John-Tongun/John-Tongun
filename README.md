@@ -12,5 +12,6 @@
 - <li>⚙️ Stack: JavaScript, Python, HTML and CSS </li>
 - ⚡ Fun fact: Books and advanture...
 - 📫 How to reach me:  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/fc3bbca6-4d40-40f8-8251-22bf531b0642" />
- Jtongun14@gmail.com or <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/6f56d11b-ea49-41dd-8278-e24498208882" />
+ Jtongun14@gmail.com or <img width="50" height="55" alt="image" src="https://github.com/user-attachments/assets/45ca62d8-24ab-4e0d-aa70-cbb68550775d" />
+
  +211924492888
