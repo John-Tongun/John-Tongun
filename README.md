@@ -1,4 +1,4 @@
-## Hi there ,👋 I'm John Tongun Curently Studying  Fullstack Software Development Program (online) at Primetek Academy .
+## Hi there ,👋 I'm John Tongun Wani Curently Studying  Fullstack Software Development Program (online) at Primetek Academy .
 
 🔭 I’m currently working on projects
 - 🌱 I’m currently learning software development at Primetek Academy and also Networking and cybersecurity at ISBAT University Kampala Uganda
