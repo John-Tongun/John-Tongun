@@ -1,7 +1,11 @@
-## Hi there ,👋 I'm John Tongun Wani Currently Studying  Fullstack Software Development Program (online) at Primetek Academy .
+## Hi there ,👋 I'm John Tongun Wani Currently Studying  Fullstack Software Development Program (online) at Primetek Academy 
+
 <li>🌎 Country: South sudan Juba City</li>
+
 <li>💻 Role: Software Engineer | Full-Stack Developer</li>
+
 - 🌱 I’m currently learning software development at Primetek Academy and also Networking and cybersecurity at ISBAT University Kampala Uganda
+- 
 - 👯 I’m looking to collaborate on software development and cybersecurity
 - <li>🌾 15 years of work in telecom industy and 2 years in Software Development , I'm currently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist and Ambassador and Mentor at PrimeTek Africa
 - <li>🌾 Projects: Drone Control Systems & AgriTech Solutions</li>
