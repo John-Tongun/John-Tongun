@@ -3,12 +3,13 @@
 🔭 I’m currently working on projects
 - 🌱 I’m currently learning software development at Primetek Academy and also Networking and cybersecurity at ISBAT University Kampala Uganda
   
-- 👯 I’m looking to collaborate on software development and cybersecurity 
+- 👯 I’m looking to collaborate on software development and cybersecurity
+- <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/38c2f1ca-05f5-4eb4-8e1c-2bcc44942a26" />
+17 years of work in telecom Industy , I'm curently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist  
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Html , CSS, JS, Python C++ ...
 - 📫 How to reach me: Jtongun14@gmail.com or Whatsapp +211924492888...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Books and advanture...
--   <img width="39" height="48" alt="image" src="https://github.com/user-attachments/assets/cdadeb84-1b22-4d6d-8a6b-5c4bf4292096" /> 17 years of work in telecom Industy , I'm curently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist  
-
+-   
 -->
