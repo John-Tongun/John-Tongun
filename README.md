@@ -1,4 +1,4 @@
-## Hi there ,👋 I'm John Tongun Wani ,Certified Fullstack Software Developer From Primetek Academy 
+## Hi there ,👋 I'm John Tongun Wani 
 
 <li>🌎 Country: South sudan Juba City</li>
 
