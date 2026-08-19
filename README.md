@@ -17,6 +17,7 @@ Full-Stack Developer · Digital Manager · Kspace
 ## About
 
 Hi there ,👋 I'm John Tongun Wani
+
 🌎 Country: South sudan Juba City
 💻 Role: Full-Stack Developer and Cyber Security Expert
 🌱 I’m currently learning software development at Primetek Academy and also Bachelor of science in networking and cyber security at ISBAT University Kampala Uganda
