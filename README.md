@@ -19,12 +19,19 @@ Full-Stack Developer · Digital Manager · Kspace
 Hi there ,👋 I'm John Tongun Wani
 
 🌎 Country: South sudan Juba City
+
 💻 Role: Full-Stack Developer and Cyber Security Expert
+
 🌱 I’m currently learning software development at Primetek Academy and also Bachelor of science in networking and cyber security at ISBAT University Kampala Uganda
+
 👯 I’m looking to collaborate on software development and cybersecurity
+
 🌾 15 years of work in telecom industy and 2 years in Software Development, I'm currently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist and Ambassador and Mentor at PrimeTek Africa
+
 🌾 Projects: Drone Control Systems & AgriTech Solutions
+
 ⚙️ Stack: JavaScript, Python, HTML and CSS
+
 ⚡ Fun fact: Books and advanture.
 
 ---
