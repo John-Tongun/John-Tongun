@@ -1,6 +1,6 @@
 <div align="center">
 
-## John Tongun Wani 
+### John Tongun Wani 
 Full-Stack Developer · Networking and Cyber Security specialist    ·Juba South Sudan
 
 ---
