@@ -55,11 +55,6 @@ Full-Stack Developer · Networking and Cyber Security specialist    ·Juba South
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend & Data**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white)
-
 **Infra & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
