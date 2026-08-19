@@ -1,7 +1,7 @@
 <div align="center">
 
 John Tongun Wani 
-Full-Stack Developer · Digital Manager · Kspace
+Full-Stack Developer · Networking and Cyber Security specialist    ·Juba South Sudan
 
 ---
 
