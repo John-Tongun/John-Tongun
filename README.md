@@ -5,7 +5,7 @@ Full-Stack Developer · Networking and Cyber Security specialist    ·Juba South
 
 ---
 
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)]([https://primetek.academy/portfolio/john-tongun)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)[]([https://primetek.academy/portfolio/john-tongun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-tongun-wani-7b43b23a/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jtongun14@gmail.com)
 
