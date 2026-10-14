@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there ,👋 I'm John Tongun Wani
-Full-Stack Developer · Networking and Cyber Security specialist    ·Juba South Sudan
+Full-Stack software Developer Student· Networking and Cyber Security specialist    ·Juba South Sudan
 
 ---
 
