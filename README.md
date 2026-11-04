@@ -3,9 +3,6 @@
 # Hi there ,👋 I'm John Tongun Wani
 Full-Stack Software Developer Student · Networking and Cyber Security specialist    ·Juba South Sudan
 
-<div align="center">
-<img align="left" src="assets/profile.jpeg" alt="Innovation Illustration" width="250" style="border-radius: 12px; margin-right: 30px; margin-bottom: 20px;" />
-<div align="left">
 ---
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-squareprimetek.academy/portfolio/john-tongun)
