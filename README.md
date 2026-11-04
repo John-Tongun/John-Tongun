@@ -6,7 +6,7 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 ---
 
 <p align="center">
-    <img src="[https://readme-typing-svg.demolab.com](https://scontent.febb3-1.fna.fbcdn.net/v/t39.30808-6/617147300_25706805802271658_7197058394994231607_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X3YXwzX8umkQ7kNvwH_Gt7G&_nc_oc=AdqxxVV1OuNWFeM_3ZZTL0UBST5jPHFYcaAVvozr-iX_BCb7vESxhupAqaTb_OzRqYw&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&_nc_gid=I-6z2zXNyw47jAReLsxCnw&_nc_ss=7b2a8&oh=00_AQQ1aHSQu-rvwXOL3VOg_aumafy9I9wz6sBSbCxiGdho_g&oe=6AF134E7)?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
+    <img src="[https://readme-typing-svg.demolab.com]?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
 </p>
 
 
