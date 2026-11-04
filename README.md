@@ -5,10 +5,6 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 
 ---
 
-<p align="center">
-    <img src="[https://readme-typing-svg.demolab.com]?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
-</p>
-
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-squareprimetek.academy/portfolio/john-tongun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-tongun-wani-7b43b23a/)
