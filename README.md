@@ -9,6 +9,8 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-tongun-wani-7b43b23a/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jtongun14@gmail.com)
 
+https://scontent.febb3-1.fna.fbcdn.net/v/t39.30808-6/617147300_25706805802271658_7197058394994231607_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X3YXwzX8umkQ7kNvwH_Gt7G&_nc_oc=AdqxxVV1OuNWFeM_3ZZTL0UBST5jPHFYcaAVvozr-iX_BCb7vESxhupAqaTb_OzRqYw&_nc_zt=23&_nc_ht=scontent.febb3-1.fna&_nc_gid=I-6z2zXNyw47jAReLsxCnw&_nc_ss=7b2a8&oh=00_AQQ1aHSQu-rvwXOL3VOg_aumafy9I9wz6sBSbCxiGdho_g&oe=6AF134E7
+
 
 </div>
 
