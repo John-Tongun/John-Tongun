@@ -16,7 +16,7 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 
 ---
 
-## About
+## 👨‍💻 About
 
 🌎 Country: South sudan Juba City
 
