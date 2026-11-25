@@ -36,13 +36,14 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JohnTongun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnTongun&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=techchipnet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techchipnet&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnTongun&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techchipnet&theme=radical" />
 </p>
 
 ---
