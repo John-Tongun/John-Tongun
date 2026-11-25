@@ -36,7 +36,6 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 
 ---
 
----
 
 ## Stack
 
