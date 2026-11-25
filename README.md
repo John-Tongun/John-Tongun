@@ -35,13 +35,11 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 - 🐧 Linux (Kali / Parrot / Raspberry Pi)
 - 🍓 Raspberry Pi & Embedded Experiments
 - 🤖 AI + Security Automation
+- ⚙️ Stack: JavaScript, Python, HTML and CSS
 - ⚙️ Bash / Python scripting
 🌾 Projects: Drone Control Systems & AgriTech Solutions
 
--⚙️ Stack: JavaScript, Python, HTML and CSS
-
 ---
-
 
 ## Stack
 
