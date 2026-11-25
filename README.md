@@ -28,11 +28,17 @@ Full-Stack Software Developer Student · Networking and Cyber Security specialis
 
 🌾 15 years of work in telecom industy and 2 years in Software Development, I'm currently working with Digitel Holding LTD as Transmission Network planning and Optimization specialist and Ambassador and Mentor at PrimeTek Africa
 
+## 👨‍💻 About Me
+
+- 🔐 Cybersecurity Research & Ethical Hacking
+- 📡 WiFi Security & Network Research
+- 🐧 Linux (Kali / Parrot / Raspberry Pi)
+- 🍓 Raspberry Pi & Embedded Experiments
+- 🤖 AI + Security Automation
+- ⚙️ Bash / Python scripting
 🌾 Projects: Drone Control Systems & AgriTech Solutions
 
-⚙️ Stack: JavaScript, Python, HTML and CSS
-
-⚡ Fun fact: Books and advanture.
+-⚙️ Stack: JavaScript, Python, HTML and CSS
 
 ---
 
